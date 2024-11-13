@@ -1,0 +1,1 @@
+**Algoritma dan Pemrograman 1** adalah mata kuliah dasar yang memperkenalkan logika algoritma dan pemrograman. Mahasiswa akan mempelajari konsep dasar seperti variabel, tipe data, kontrol alur (percabangan dan perulangan), serta fungsi. Mata kuliah ini bertujuan membekali mahasiswa dengan kemampuan merancang dan mengimplementasikan solusi algoritmis untuk berbagai masalah dasar.
